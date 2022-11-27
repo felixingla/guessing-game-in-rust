@@ -1,6 +1,6 @@
-## guessing-game-in-rust
+## Guessing game in Rust
 
-A number guessing game in rust using method, the rand crate, mutable variables, and references
+A number guessing game in Rust using method, the rand crate, mutable variables, and references
 
 ### How does the game work?
 
